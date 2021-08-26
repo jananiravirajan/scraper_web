@@ -1,0 +1,10 @@
+C:\Users\janani\source\repos\scraper_web\scraper_web\bin\Debug\scraper_web.exe.config
+C:\Users\janani\source\repos\scraper_web\scraper_web\bin\Debug\scraper_web.exe
+C:\Users\janani\source\repos\scraper_web\scraper_web\bin\Debug\scraper_web.pdb
+C:\Users\janani\source\repos\scraper_web\scraper_web\bin\Debug\HtmlAgilityPack.dll
+C:\Users\janani\source\repos\scraper_web\scraper_web\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\janani\source\repos\scraper_web\scraper_web\bin\Debug\HtmlAgilityPack.xml
+C:\Users\janani\source\repos\scraper_web\scraper_web\obj\Debug\scraper_web.csprojAssemblyReference.cache
+C:\Users\janani\source\repos\scraper_web\scraper_web\obj\Debug\scraper_web.csproj.CopyComplete
+C:\Users\janani\source\repos\scraper_web\scraper_web\obj\Debug\scraper_web.exe
+C:\Users\janani\source\repos\scraper_web\scraper_web\obj\Debug\scraper_web.pdb
